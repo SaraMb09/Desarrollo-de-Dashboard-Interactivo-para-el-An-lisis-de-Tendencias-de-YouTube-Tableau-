@@ -27,3 +27,11 @@ Resultados obtenidos:
 El dashboard permitió automatizar el análisis semanal de las tendencias de YouTube, facilitando la identificación de las categorías con mayor presencia en la plataforma y su comportamiento en diferentes regiones del mundo. Asimismo, hizo posible comparar las preferencias de los usuarios entre Estados Unidos y otros mercados, proporcionando información estratégica para orientar campañas publicitarias y decisiones de marketing basadas en datos.
 
 Este proyecto demuestra competencias en Business Intelligence, Tableau Public, diseño de dashboards interactivos, visualización de datos, análisis exploratorio (EDA), storytelling con datos y automatización de reportes, aplicadas al análisis de tendencias digitales y la generación de información para la toma de decisiones empresariales.
+
+Sobre mí: Soy Analista de Datos en formación, apasionada por transformar datos en información clara y útil para la toma de decisiones. Vengo de una experiencia previa en atención al cliente y gestión administrativa, donde desarrollé una fuerte orientación al detalle, pensamiento analítico y habilidades de comunicación que hoy aplico en proyectos de datos.
+
+Me motiva entender el porqué detrás de los números, encontrar patrones, validar hipótesis y presentar resultados de forma sencilla y visual para audiencias no técnicas. He trabajado con Python, SQL y herramientas de visualización, desarrollando proyectos enfocados en análisis de mercado, comportamiento de usuarios y apoyo a decisiones de negocio.
+
+Actualmente busco seguir creciendo como Analista de Datos, participando en proyectos donde el análisis, la curiosidad y el impacto real en el negocio sean el centro del trabajo.
+
+Saludos, Sara Montesdeoca Analista de Datos 📧 sara.montesdeoca09@gmail.com | 🌐 https://github.com/SaraMb09 🔗 www.linkedin.com/in/sara-montesdeoca-data-analyst
